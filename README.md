@@ -23,4 +23,4 @@
 ## 🧠 Author
 
 **Anushka Singh**  
-GitHub: [@Anushkasingh9](https://github.com/Anushkasingh9)
+
